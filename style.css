@@ -1,3 +1,11 @@
+
+
+
+
+style{
+    height: 1200;
+    
+}
 .uh{
     background-color:blue ;
     color: turquoise;
@@ -15,7 +23,8 @@ body{
 
 button {
     padding: 10px;
-    margin: 10px;
+    margin: 50px;
+    color: turquoise;
 }
 
 img {
@@ -25,6 +34,14 @@ img {
 }
 
 h1 {
-    font-size: 3em;
+    /* font-size: 10em; */
+    color: rgb(255, 255, 255); font-size: 120%; text-shadow: rgb(255, 255, 255) 0px 0px 5px, rgb(255, 255, 255) 0px 0px 10px, rgb(255, 255, 255) 0px 0px 15px, rgb(126, 255, 219) 0px 0px 20px, rgb(126, 255, 219) 0px 0px 30px, rgb(126, 255, 219) 0px 0px 40px, rgb(126, 255, 219) 0px 0px 55px, rgb(126, 255, 219) 0px 0px 75px;
+   height: 10;
 }
 
+p{
+    color: rgb(255, 255, 255); font-size: 120%; text-shadow: rgb(255, 255, 255) 0px 0px 5px, rgb(255, 255, 255) 0px 0px 10px, rgb(255, 255, 255) 0px 0px 15px, rgb(126, 255, 219) 0px 0px 20px, rgb(126, 255, 219) 0px 0px 30px, rgb(126, 255, 219) 0px 0px 40px, rgb(126, 255, 219) 0px 0px 55px, rgb(126, 255, 219) 0px 0px 75px;
+}
+.bu{
+    height: 100px;
+}
